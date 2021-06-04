@@ -1,4 +1,4 @@
-@import url('https://fonts.google.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 * {
     box-sizing: border-box;
@@ -31,6 +31,7 @@ h1 {
 .filter {
     width: 100%;
     padding: 12px;
+    font-size: 16px;
 }
 
 .post {
@@ -45,7 +46,7 @@ h1 {
     max-width: 800px;
 }
 
-.post .pst-title {
+.post .post-title {
     margin: 0;
 }
 
